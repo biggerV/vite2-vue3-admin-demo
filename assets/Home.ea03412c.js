@@ -1,0 +1,1 @@
+import{b as t,o as e,d as o,e as d,w as a}from"./vendor.cd5cedf3.js";const n={components:{},data:()=>({}),mounted(){}},s=a()(((a,n,s,l,r,c)=>{const i=t("el-alert");return e(),o("div",null,[d(i,{title:a.$t("欢迎光临系统管理后台"),type:"info",style:{"margin-bottom":"20px"}},null,8,["title"])])}));n.render=s,n.__scopeId="data-v-0d13f1cd";export default n;
